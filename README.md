@@ -1,6 +1,8 @@
 # hand-drawing-to-stl
 Convert a hand drawing to a STL file
 
+![Screenshot](https://github.com/MxBoud/hand-drawing-to-stl/blob/main/Screenshot.jpg)
+
 ## Requirements 
 Python packages: 
 
@@ -9,8 +11,6 @@ Python packages:
 2)Open CV
 
 3)Numpy
-
-![Screenshot](https://github.com/MxBoud/hand-drawing-to-stl/blob/main/Screenshot.jpg)
 
 OpenScad : https://openscad.org
 
