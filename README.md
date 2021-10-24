@@ -3,9 +3,9 @@ Convert a hand drawing to a STL file
 
 ## Requirements 
 Python packages: 
-  -Matplotlib
-  -Open CV
-  -Numpy
+-Matplotlib
+-Open CV
+-Numpy
 
 OpenScad : https://openscad.org
 
