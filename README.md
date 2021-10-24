@@ -6,7 +6,7 @@ Python packages:
 1)Matplotlib
 2)Open CV
 3)Numpy
-
+![Screenshot](Screenshot.png)
 OpenScad : https://openscad.org
 
 ## Before you execude the script
